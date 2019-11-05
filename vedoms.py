@@ -49,7 +49,7 @@ for data in response:
  cbu_list_request = onevizion.Trackor(trackorType='VEDOMSTVO', URL=url, userName=login, password=password)
 
 
-if myvars['LE_NM_UZ'][1] is not None:
+
 
  cbu_list_request.update(data['TRACKOR_ID'],
   fields={
