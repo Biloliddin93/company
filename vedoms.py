@@ -67,7 +67,7 @@ for data in response:
    'VED_NAME':myvars['LE_NM_UZ'][1],
    #'VED_REG_DATE':myvars['REG_DATE'][1],
    'VED_REG_NO':myvars['REG_NO'][1],
-   'VED_LIQ_DATE':myvars['LIQ_DATE'][1],
+   #'VED_LIQ_DATE':myvars['LIQ_DATE'][1],
    'VED_LIQ_NO':myvars['LIQ_NO'][1],
    'VED_ZIP':myvars['ZIP'][1],
    'VED_ADDRESS':myvars['ADDR'][1],
